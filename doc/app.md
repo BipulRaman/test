@@ -1,8 +1,8 @@
 ---
-        "author": "Bipul Raman"
-        "title": "{{page.title}}"
-        "imageUrl": "{{page.imageUrl}}"
-        "content": "{{page.content}}"
-        "extendedContent": "{{page.extendedContent}}"
-        "created": "{{page.created}}"
+        author: Bipul Raman
+        title: This is a test article
+        imageUrl: https://test.bipul.in/images/404.svg
+        content: This is a sample content
+        extendedContent: This is extended content
+        created: Time
 ---
