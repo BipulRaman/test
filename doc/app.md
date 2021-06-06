@@ -1,8 +1,14 @@
 ---
-        "author": "Bipul Raman"
-        "title": "{{page.title}}"
-        "imageUrl": "{{page.imageUrl}}"
-        "content": "{{page.content}}"
-        "extendedContent": "{{page.extendedContent}}"
-        "created": "{{page.created}}"
+Title: Bipul Raman
+Author: Mr. Bipul Raman
 ---
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
